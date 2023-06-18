@@ -1,0 +1,54 @@
+.diferenciales {
+    padding-top: 3.5rem; /* Agrega un relleno superior de 3.5rem */
+    padding-bottom: 3.5rem; /* Agrega un relleno inferior de 3.5rem */
+}
+
+.diferenciales__lista {
+    display: flex; /* Establece la visualización de los elementos como flex */
+    flex-wrap: wrap; /* Permite que los elementos se envuelvan en múltiples líneas cuando no haya suficiente espacio horizontal */
+    justify-content: space-evenly; /* Distribuye equitativamente los elementos a lo largo del contenedor con espacios iguales entre ellos */
+}
+
+.diferenciales__item {
+    max-width: 350px; /* Establece el ancho máximo del elemento en 350px */
+    box-sizing: border-box; /* Incluye el tamaño del borde y el relleno dentro del ancho y alto del elemento */
+    padding: 2rem 0 2rem 5rem; /* Agrega un relleno de 2rem en la parte superior e inferior y 0 en los lados izquierdo y derecho, y un relleno de 5rem en el lado izquierdo */
+    background-repeat: no-repeat;
+    background-position: top 1.25rem left 2.5rem;
+}
+
+.item__titulo {
+    color: var(--fuente-ceniza-oscuro); /* Establece el color del texto en una variable CSS personalizada llamada "--fuente-ceniza-oscuro" */
+    font-weight: 700; /* Establece el peso de la fuente en negrita */
+    font-size: 1.2rem; /* Establece el tamaño de la fuente en 1.2rem */
+    text-transform: uppercase; /* Transforma el texto a mayúsculas */
+    margin-bottom: 1.5rem; /* Agrega un margen inferior de 1.5rem */
+}
+
+.item__texto {
+    line-height: normal; /* Establece la altura de línea del texto como normal */
+}
+.diferenciales__item-reloj{   
+
+    background-image: url(../img/icono-reloj.png);    
+}
+.diferenciales__item-dinero{
+    background-image: url(../img/icono-dinero.png);
+}
+
+.diferenciales__item-quimica{   
+
+    background-image: url(../img/icono-quimica.png);    
+}
+.sobre_nosotros__plataformas{
+    display: flex;
+    justify-content: space-around;
+}
+@media screen and (min-width: 1024px){
+    .diferenciales{
+        background-color: var(--background-ceniza-claro);
+        justify-content: space-around;
+    }
+
+    
+}

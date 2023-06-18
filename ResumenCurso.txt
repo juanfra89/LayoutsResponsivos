@@ -1,0 +1,17 @@
+Aquí está un resumen de los temas que se cubrieron en el curso de layouts responsivos:
+
+Uso de EMMET: Se aprendió a utilizar EMMET, una herramienta que permite crear bloques complejos de código de manera más eficiente y rápida en el desarrollo web.
+
+Unidades de medida relativas: Se exploró la importancia de la unidad de medida relativa "rem" y cómo se utiliza en diseños responsivos, así como las diferencias con las unidades absolutas.
+
+Tipos de imágenes: Se estudiaron las características y diferencias entre los distintos tipos de imágenes, incluyendo el uso de SVG y sus ventajas en proyectos responsivos.
+
+Viewport y escala initial-scale: Se abordó el uso del viewport y la propiedad "initial-scale", que permite definir el nivel de zoom aplicado en un sitio web para adaptarlo a diferentes dispositivos.
+
+Imágenes a pantalla completa: Se aprendió cómo hacer que las imágenes ocupen todo el tamaño de la pantalla en dispositivos móviles, así como la forma de limitar el tamaño de la imagen en pantallas más grandes para evitar la pixelación.
+
+Variables de CSS: Se exploró el uso de variables de CSS como una forma más concisa de definir propiedades importantes en los archivos de estilo, como colores y fuentes de texto.
+
+Mobile First: Se explicó el concepto de "Mobile First", que consiste en desarrollar inicialmente el sitio web para dispositivos móviles y luego adaptarlo a tamaños de pantalla más grandes. Esto permite aplicar diseños responsivos de manera efectiva.
+
+Con estos conocimientos, se adquieren las habilidades necesarias para aplicar diseños responsivos en proyectos de desarrollo web, adaptándolos a diferentes dispositivos y tamaños de pantalla.
